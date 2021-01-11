@@ -355,3 +355,18 @@ class org.eclipse.jdt.core.dom.Block: {
 	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
 	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
 	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 11:50:14.134
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NjwhrTtU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 11:50:14.153
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NjwhrTtU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 11:50:14.153
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 11:50:14.154
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NjwhrTtU => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-01-11 11:50:14.931
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
